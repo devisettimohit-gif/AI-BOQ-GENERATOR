@@ -11,7 +11,8 @@ This project is an AI-powered web application that helps civil engineers estimat
 - Export reports (PDF/Excel)
 
 ## Team
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- D.Mohit
+- SK.Shujath
+- Vikas
+- Akshaya
+- R.Subasya
